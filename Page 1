@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <h1> Erica McGraw</h1>
+  <body>
+    <img src="https://ericamcgraw.github.io/test/EM.png
+      " alt="My test image">
+  </body>
+</html>
